@@ -1,3 +1,5 @@
+// Take a string and count unique word using hashing
+
 #include<bits/stdc++.h>
 using namespace std;
 
